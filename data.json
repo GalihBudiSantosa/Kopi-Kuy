@@ -1,0 +1,64 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "images/produk/product_ice_cream.jpg",
+            "nama": "Es Kream Mangkok",
+            "size": "250 Gram",
+            "harga": "25.000",
+            "link": "https://www.tokopedia.com/find/aice-sundae"
+        },
+        {
+            "foto": "images/produk/product_cake.jpg",
+            "nama": "Cake Strawberry",
+            "size": "300 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?sca_esv=555778131&rlz=1C1ONGR_enID1013ID1013&q=cake+strawberry&tbm=shop&source=lnms&sa=X&ved=2ahUKEwjx_Mug59OAAxWhxzgGHceECgsQ0pQJegQICxAB&biw=1242&bih=572&dpr=1.1"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/04/Bubble-Thai-Tea.jpg",
+            "nama": "Thai Tea",
+            "size": "250 Ml",
+            "harga": "13.000",
+            "link": "https://www.google.com/search?q=thai+tea&tbm=shop"
+        }
+    ]
+}
